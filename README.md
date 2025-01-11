@@ -2,7 +2,7 @@
 
 ## 数据集说明
 
-本项目使用的原始数据集来自华为云的公有云和私有云平台。详细的数据集描述可以参考：
+本项目使用的原始数据集来自华为云的公有云和私有云平台，并且只处理了有关私有云的数据集。详细的数据集描述可以参考：
 [@sir-lab/data-release](https://github.com/sir-lab/data-release/blob/main/README_data_release_2023.md)
 
 ## 数据集特点
@@ -24,7 +24,6 @@
 
 ## 相关研究
 
-本数据集用于以下研究论文：
 - ACM SoCC 2023: "How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads"
 
 ## 数据来源
