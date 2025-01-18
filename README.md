@@ -22,6 +22,14 @@
 - 来自单个可用区
 - 主要指标：每分钟请求数
 
+### 处理后的数据集
+| 属性 | 值 |
+|------|-----|
+| 数据集大小 | 152.92MB |
+| 时间序列数量 | 200 |
+| 序列长度 | 67680 |
+| 采样频率 | 5分钟 |
+
 ## 相关研究
 
 - ACM SoCC 2023: "How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads"
